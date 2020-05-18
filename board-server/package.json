@@ -1,0 +1,20 @@
+{
+  "name": "board-server",
+  "version": "1.0.0",
+  "description": "Board Rest API Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeaha",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cron": "^1.8.2",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.9.14",
+    "multer": "^1.4.2"
+  }
+}
