@@ -42,3 +42,17 @@ mongoose
   - title
   - content
   - createAt
+
+## Git Clone Comment
+
+3개월 전 업로드 된 졸라 좋은 예제 BUT, 너무 어렵다.  
+babel과 webpack을 썼다.  
+redux-logger가 action과 state 로그를 찍어준다..
+
+## Integration
+
+```
+npm install
+npm ci
+npm start
+```
